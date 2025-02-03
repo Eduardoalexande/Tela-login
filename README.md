@@ -29,9 +29,7 @@ git clone https://github.com/SEU_USUARIO/tela-login.git
 2. Abra o arquivo index.html no navegador.
 
 
-
-📷 Preview
-
+![Image](https://github.com/user-attachments/assets/7abbef8f-e484-4250-809b-793d015d3315)
 
 
 📝 Personalização
