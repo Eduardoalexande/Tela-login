@@ -1,0 +1,57 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: blueviolet;
+  align-items: center;
+}
+.celular{
+  width: auto;
+  height: 290px;
+  position: relative;
+}
+.insta1{
+  width:auto;
+  height: 250px;
+  position:absolute;
+  left: 70px;
+  top: 65px;
+}
+.insta{
+  margin-bottom: 10px;
+  height: 50px;
+  width:150px;
+  margin-left: 40px
+}
+
+button{
+  width:238px;
+  margin-left: 18px;
+  border-radius: 3px;
+  cursor:pointer;
+  
+  
+}
+input{
+  margin: 5px;
+  padding: 10px;
+  margin-left: 10px;
+  width:250px;
+  height: 100px
+  margin-bottom: 10px;
+  outline: none;
+}
+.form{
+  
+  display: flex; 
+  padding: 5px 50px 50px 120px;
+  flex-direction: column;
+}
+a{
+  color:blue;
+  margin-top: 5px;
+  margin-left: 60px;
+  cursor: pointer;
+}
