@@ -23,7 +23,7 @@ A tela de login tem um design simples e responsivo, com um formulário de entrad
 
 1. Clone este repositório:
 
-git clone https://github.com/SEU_USUARIO/tela-login.git
+git clone https://github.com/Eduardoalexande/Tela-login.git
 
 
 2. Abra o arquivo index.html no navegador.
@@ -49,10 +49,4 @@ Se quiser acessar essa tela online, siga os passos:
 3. Em Branch, selecione main e clique em Save.
 
 
-4. Seu projeto estará disponível em https://seuusuario.github.io/tela-login/.
-
-
-
-📄 Licença
-
-Este projeto está sob a licença MIT.
+4. Seu projeto estará disponível em https://github.com/Eduardoalexande/Tela-login/ .
